@@ -1,3 +1,7 @@
+## 2022/2/3 - CALDP_20220203_CAL_rc1
+### calcos 3.3.12-rc1
+### drizzlepac 3.4.0rc3
+
 ## 2022/1/27 - CALDP_mvmalpha_CAL_rc3
 ### hstcal 2.7.2
 ### calcos 3.3.12-rc1
