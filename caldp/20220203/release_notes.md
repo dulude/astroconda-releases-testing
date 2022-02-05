@@ -1,3 +1,7 @@
+## 2022/2/5 - CALDP_20220203_CAL_rc1
+### calcos 3.3.12-rc1
+### drizzlepac 3.4.0rc3
+
 ## 2022/2/3 - CALDP_20220203_CAL_rc1
 ### calcos 3.3.12-rc1
 ### drizzlepac 3.4.0rc3

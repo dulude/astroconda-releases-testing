@@ -1,5 +1,5 @@
 # delivery_name: CALDP_20220203_CAL_rc1
-# creation_time: Thu Feb  3 19:03:08 2022
+# creation_time: Fri Feb  4 22:37:23 2022
 # conda_version: 4.11.0
 # condabuild_version: 3.18.11
 channels:
@@ -10,7 +10,7 @@ dependencies:
 - ca-certificates=2021.10.8=h033912b_0
 - cfitsio=4.0.0=hb20e66c_0
 - fitsverify=4.20=h26fae08_1
-- hstcal=2.7.2=h6a33654_1
+- hstcal=2.7.3=h6a33654_0
 - krb5=1.19.2=h289aae4_3
 - libcurl=7.81.0=h97da3c1_0
 - libcxx=12.0.1=habf9029_1
@@ -70,7 +70,7 @@ dependencies:
   - networkx==2.6.3
   - nictools==1.1.5
   - numexpr==2.8.1
-  - numpy==1.22.1
+  - numpy==1.22.2
   - packaging==21.3
   - pandas==1.4.0
   - parsley==1.3
